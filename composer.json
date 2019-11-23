@@ -24,7 +24,7 @@
         "php-http/discovery": "^1.0",
         "php-http/client-implementation": "^1.0",
         "php-http/client-common": "^1.6 || ^2.0",
-        "php-http/cache-plugin": "^1.4"
+        "php-http/cache-plugin": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.0 || ^8.0",
